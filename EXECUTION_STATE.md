@@ -6,7 +6,7 @@ owner: Pond
 current_worker: K9
 
 ## Current Objective
-Lock BaanFlow MVP scope, ICP, and SEO/product positioning before building the Next.js frontend.
+Build the BaanFlow frontend foundation in Next.js + TypeScript, starting with an SEO-first landing page.
 
 ## Current Truth
 - Project name selected: BaanFlow.
@@ -14,9 +14,10 @@ Lock BaanFlow MVP scope, ICP, and SEO/product positioning before building the Ne
 - Stack v1 selected: Next.js + TypeScript FE, Rust BE, Redis cache/queue, PostgreSQL DB.
 - Auth v1 selected: NextAuth/Auth.js with username/password first.
 - File storage provider still not selected; S3-compatible storage is recommended.
+- Frontend bootstrap exists and passes lint, typecheck, and build.
 
 ## Next Action
-Create competitor matrix and initial IA/pages for Next.js SEO landing + app MVP.
+Design the next frontend slice: app shell/routes for dashboard, house models, quotations, projects, and customer portal.
 
 ## Blockers
 - Need choose file storage provider: Cloudflare R2, AWS S3, or MinIO.
