@@ -15,9 +15,10 @@ Build the BaanFlow frontend foundation in Next.js + TypeScript, starting with an
 - Auth v1 selected: NextAuth/Auth.js with username/password first.
 - File storage provider still not selected; S3-compatible storage is recommended.
 - Frontend bootstrap exists and passes lint, typecheck, and build.
+- Internal app shell/menu and CRUD mock screens exist for dashboard, house models, quotations, projects, customers, and payments.
 
 ## Next Action
-Design the next frontend slice: app shell/routes for dashboard, house models, quotations, projects, and customer portal.
+Design the next frontend slice: customer portal route and public house model catalog pages.
 
 ## Blockers
 - Need choose file storage provider: Cloudflare R2, AWS S3, or MinIO.
