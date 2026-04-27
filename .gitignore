@@ -22,3 +22,6 @@ logs/
 .DS_Store
 .vscode/
 .idea/
+
+# TypeScript
+*.tsbuildinfo
